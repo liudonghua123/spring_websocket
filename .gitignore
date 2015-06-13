@@ -1,0 +1,10 @@
+# eclipse project files
+.project
+.classpath
+.settings
+
+# maven build intermediate files
+target
+
+# client library
+src/main/webapp/libs

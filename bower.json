@@ -1,0 +1,27 @@
+{
+    "name": "spring_websocket",
+    "version": "0.0.0",
+    "authors": [
+        "liudonghua123 <liudonghua123@gmail.com>"
+    ],
+    "description": "Simple Spring WebSocket tutorial",
+    "license": "MIT",
+    "homepage": "liudonghua.com",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "src/main/webapp/libs",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "latest",
+        "angular-resource": "latest",
+        "jquery": "latest",
+        "semantic-ui": "latest",
+        "sockjs": "latest",
+        "stomp-websocket": "latest",
+        "showdown": "latest"
+    }
+}
